@@ -1,0 +1,113 @@
+body {
+    font-family: sans-serif;
+  }
+  
+
+  .background-image {
+    background-image: url(https://example.com/background-image.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  
+  .logos {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 20px;
+  }
+  
+  .logos img {
+    width: 100px;
+    height: auto;
+    margin: 0 10px;
+  }
+  
+  header {
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  nav {
+    float: right;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #000;
+    padding: 10px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .hero-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(https://example.com/hero.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .hero {
+    background-color: transparent;
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  
+  .hero h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 4px;
+  }
+  
+  .testimonials {
+    padding: 50px;
+  }
+  
+  .testimonial {
+    margin-bottom: 20px;
+  }
+  
+  .testimonial img {
+    float: left;
+    margin-right: 20px;
+  }
+  
+  .testimonial p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  cite {
+    font-size: 14px;
+    color: #ccc;
+  }
+  
+  footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+  }
+  
